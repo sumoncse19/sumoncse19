@@ -2,7 +2,7 @@
 <h3 align="center">MERN and MEVN Stack developer</h3>
 
 # 💫 About Me:
-- 🔭 I’m currently working on Developer eXperience Hub.<br>- 🌱 I’m currently learning Next.js, Redux, and TypeScript.<br>- 💬 Ask me about JavaScript and React.js<br>- 📫 How to reach me: mdsumoncse19@gmail.com<br>- ⚡ Fun fact: A mug of coffee for a bug.<br><br>👨‍💼 Connect with me:<br>📞 Phone: +8801533785541<br>📧 Email: mdsumoncse19@gmail.com<br>🌐 Portfolio: https://sumon-portfolio.web.app/
+- 🔭 I’m currently working at Developer eXperience Hub.<br>- 🌱 I’m currently learning Next.js, Redux, and TypeScript.<br>- 💬 Ask me about JavaScript and React.js<br>- 📫 How to reach me: mdsumoncse19@gmail.com<br>- ⚡ Fun fact: A mug of coffee for a bug.<br><br>👨‍💼 Connect with me:<br>📞 Phone: +8801533785541<br>📧 Email: mdsumoncse19@gmail.com<br>🌐 Portfolio: https://sumon-portfolio.web.app/
 
 ---
 
