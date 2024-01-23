@@ -1,5 +1,16 @@
 <h1 align="center">Hi 👋, I'm Md. Sumon</h1>
-<h3 align="center">MERN and MEVN Stack developer</h3>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;MERN+and+MEVN+Stack+Developer;Computer+Science+Student;Competitive+Programmer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p>
+
+<br>
+
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=sumoncse19&label=Profile%20views&color=0e75b6&style=plastic" alt="sumoncse19" /> 
+	<a href = "https://commits.top/egypt.html" target="_blank">
+		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="sumoncse19" target="_blank"/> 
+	</a>
+</p>
 
 # 💫 About Me:
 <br>- 🔭 I’m currently working at Developer eXperience Hub.<br>- 🌱 I’m currently learning Next.js, Redux, and TypeScript.<br>- 💬 Ask me about JavaScript and React.js<br>- 📫 How to reach me: mdsumoncse19@gmail.com<br>- ⚡ Fun fact: A mug of coffee for a bug.<br><br>👨‍💼 Connect with me:<br>📞 Phone: +8801533785541<br>📧 Email: mdsumoncse19@gmail.com<br>🌐 Portfolio: https://sumon-portfolio.web.app/
@@ -24,31 +35,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=sumoncse19&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sumoncse19&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sumoncse19&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<h1 align="center">Hi , I'm Ahmed Hossam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;ACPC+2021+Finalist;DS%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforces;Division%202%20on%20Codechef%20(3%20Stars);6%20Kyu%20on%20Atcoder;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
-</p>
-
-<br>
-
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=0e75b6&style=plastic" alt="7oSkaaa" /> 
-	<a href = "https://commits.top/egypt.html" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="7oSkaaa" target="_blank"/> 
-	</a>
-</p>
-
-
-## :sassy_man:  About me
-- :school: I am a `Junior` at Faculty of Computers & Informatics at Suez Canal University
-- :trophy: `ACPC` Finalist 2021
-- :technologist: I love using Software as a solution for every `Problem`
-- :computer: I am a competitive programmer mainly at `Codeforces`
-- :student: I’m currently learning: `Computer Science` and `Software Engineering`.
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1gdiny_4f5TVbSdfyAQxokLMMrBTi054P/view?usp=sharing).
-- :nerd_face: Always `learning new things`
-<br>
 
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sumoncse19&theme=algolia" alt="sumoncse19" /></p><br>
