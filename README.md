@@ -33,13 +33,13 @@
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sumoncse19&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+## Top Languages
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sumoncse19&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumoncse19&show_icons=true&theme=merko)](https://github.com/mdshohelrana/github-readme-stats)
 
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sumoncse19&theme=algolia" alt="sumoncse19" /></p><br>
-
-## Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumoncse19&show_icons=true&theme=merko)](https://github.com/mdshohelrana/github-readme-stats)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sumoncse19&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4)
