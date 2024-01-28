@@ -13,7 +13,7 @@
 </p>
 
 # 💫 About Me:
-<br>- 🔭 I’m currently working at Developer eXperience Hub.<br>- 🌱 I’m currently learning Next.js, Redux, and TypeScript.<br>- 💬 Ask me about JavaScript and React.js<br>- 📫 How to reach me: mdsumoncse19@gmail.com<br>- ⚡ Fun fact: A mug of coffee for a bug.<br><br>👨‍💼 Connect with me:<br>📞 Phone: +8801533785541<br>📧 Email: mdsumoncse19@gmail.com<br>🌐 Portfolio: https://sumon-portfolio.web.app/
+<br>- 🔭 I’m a Full Stack Developer.<br>- 🌱 I’m currently learning Next.js, Node.js and Django.<br>- 💬 Ask me about JavaScript, Redux, TypeScript, Vue.js, Nuxt.js and React.js<br>- 📫 How to reach me: mdsumoncse19@gmail.com<br>- ⚡ Fun fact: A mug of coffee for a bug.<br><br>👨‍💼 Connect with me:<br>📞 Phone: +8801533785541<br>📧 Email: mdsumoncse19@gmail.com<br>🌐 Portfolio: https://sumon-portfolio.web.app/
 
 ---
 
