@@ -37,11 +37,6 @@
 ## 📊 GitHub Profile Summary:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumoncse19&theme=algolia)
 
-## 📊 Professional GitHub Profile:
-![]([Click Here](https://github.com/SuMon-Devxhub))<br />
-![](https://github-readme-stats.vercel.app/api?username=SuMon-Devxhub&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SuMon-Devxhub&theme=algolia)
-
 ## Top Languages
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sumoncse19&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumoncse19&show_icons=true&theme=merko)](https://github.com/sumoncse19#top-languages)
@@ -50,6 +45,15 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sumoncse19&theme=algolia" alt="sumoncse19" /></p><br>
 
 ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sumoncse19&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4)
+
+## 📊 Professional GitHub Profile Summary:
+![]([Click Here](https://github.com/SuMon-Devxhub))<br />
+![](https://github-readme-stats.vercel.app/api?username=SuMon-Devxhub&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SuMon-Devxhub&theme=algolia)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SuMon-Devxhub&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuMon-Devxhub&show_icons=true&theme=merko)](https://github.com/sumoncse19#top-languages)<br>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sumoncse19&theme=algolia" alt="sumoncse19" /></p><br>
 ![](https://github-profile-trophy.vercel.app/?username=sumoncse19&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
