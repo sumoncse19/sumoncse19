@@ -53,8 +53,8 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SuMon-Devxhub&theme=algolia)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SuMon-Devxhub&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuMon-Devxhub&show_icons=true&theme=merko)](https://github.com/SuMon-Devxhub#top-languages)<br>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SuMon-Devxhub&theme=algolia" alt="SuMon-Devxhub" /></p><br>
 ![](https://github-profile-trophy.vercel.app/?username=SuMon-Devxhub&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4)
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SuMon-Devxhub&theme=algolia" alt="SuMon-Devxhub" /></p><br>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
